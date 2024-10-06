@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "username": "meet",
+      "email": "rmit9542@gmail.com",
+      "password": "123123",
+      "id": 1
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Sample Event 1",
+      "description": "This is a sample description for event 1.",
+      "date": "2024-10-15",
+      "location": "New York",
+      "image_url": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Sample Event 2",
+      "description": "This is a sample description for event 2.",
+      "date": "2024-10-20",
+      "location": "San Francisco",
+      "image_url": "https://via.placeholder.com/150"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
